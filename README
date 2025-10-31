@@ -1,0 +1,83 @@
+# 🛍️ E-Commerce Sales Data Analytics Dashboard
+
+## 📊 Project Overview
+This project focuses on analyzing real-world e-commerce sales data to uncover insights about customer behavior, product performance, and revenue trends.  
+The dataset contains order records from multiple months, and the goal was to clean, analyze, and visualize the data using **Python** and **Google Looker Studio**.
+
+---
+
+## 🎯 Objectives
+- Clean and preprocess raw e-commerce sales data.
+- Explore trends in **sales, revenue, and brand performance**.
+- Build an **interactive dashboard** to visualize key business metrics.
+- Derive insights for better understanding of customer and product analytics.
+
+---
+
+## 🧰 Tools & Technologies
+| Tool | Purpose |
+|------|----------|
+| **Python (Colab)** | Data Cleaning & Analysis |
+| **Pandas, NumPy** | Data Manipulation |
+| **Matplotlib, Seaborn** | Exploratory Data Visualization |
+| **Google Looker Studio** | Interactive Dashboard Creation |
+| **CSV Files (Oct–Dec 2019)** | Raw Data Source |
+
+---
+
+## 🧹 Data Cleaning Steps
+- Merged multiple monthly datasets (Oct–Dec 2019).
+- Handled missing and duplicate values.
+- Extracted month and year from timestamps.
+- Converted data types for numerical and categorical analysis.
+
+---
+
+## 📈 Key Metrics (KPIs)
+| KPI | Description |
+|-----|--------------|
+| 💰 **Total Revenue** | Sum of all sales transactions |
+| 🧾 **Total Orders** | Count of purchase events |
+| 👥 **Unique Customers** | Number of distinct buyers |
+| 🛍️ **Total Products Sold** | Unique product IDs sold |
+
+---
+
+## 📉 Dashboard Insights
+- **Top Brands by Revenue** — Identified the leading brands generating the most revenue.  
+- **Monthly Revenue Trend** — Clear visualization of revenue fluctuations over time.  
+- **Category-wise Sales** — Breakdown of total sales by category.  
+- **Customer Activity** — Insights into number of active users and purchase frequency.
+
+---
+
+## 🖼️ Dashboard Preview
+![Dashboard Screenshot]
+
+---
+
+## 🔗 Links
+- 📘 **Colab Notebook:** [View Here](PASTE_YOUR_COLAB_LINK)
+- 📊 **Looker Studio Dashboard:** [View Here](PASTE_YOUR_LOOKER_LINK)
+- 📁 **Dataset:** 2019-Oct.csv, 2019-Nov.csv, 2019-Dec.csv (E-commerce dataset)
+
+---
+
+## 📚 Learnings
+- Data preprocessing and feature extraction from raw datasets.
+- Data visualization and storytelling using KPIs.
+- Dashboard creation and data blending in Looker Studio.
+- Enhanced business understanding of e-commerce performance metrics.
+
+---
+
+## 👩‍💻 Author
+**Manasa M**  
+🎓 B.E. in Information Science | DSATM  
+📧 Contact: [your.email@example.com]  
+🌐 [LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN)
+
+---
+
+## 🏷️ Tags
+`#DataAnalytics` `#Python` `#EDA` `#LookerStudio` `#DataVisualization` `#EcommerceAnalysis`
