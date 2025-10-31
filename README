@@ -52,13 +52,13 @@ The dataset contains order records from multiple months, and the goal was to cle
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot]
+![Dashboard Screenshot](Screenshot (482).png)
 
 ---
 
 ## 🔗 Links
-- 📘 **Colab Notebook:** [View Here](PASTE_YOUR_COLAB_LINK)
-- 📊 **Looker Studio Dashboard:** [View Here](PASTE_YOUR_LOOKER_LINK)
+- 📘 **Colab Notebook:** [View Here](UntitledO.ipynb)
+- 📊 **Looker Studio Dashboard:** [View Here](https://lookerstudio.google.com/reporting/c74a10d6-deb7-43b4-84ed-86cde9920a93)
 - 📁 **Dataset:** 2019-Oct.csv, 2019-Nov.csv, 2019-Dec.csv (E-commerce dataset)
 
 ---
@@ -73,9 +73,6 @@ The dataset contains order records from multiple months, and the goal was to cle
 
 ## 👩‍💻 Author
 **Manasa M**  
-🎓 B.E. in Information Science | DSATM  
-📧 Contact: [your.email@example.com]  
-🌐 [LinkedIn Profile](https://linkedin.com/in/YOUR-LINKEDIN)
 
 ---
 
