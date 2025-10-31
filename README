@@ -52,13 +52,13 @@ The dataset contains order records from multiple months, and the goal was to cle
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](Screenshot (482).png)
+![Dashboard Screenshot](![Dashboard Screenshot](https://raw.githubusercontent.com/mana7111/E-Commerce-Sales-Dashboard-2019-/main/Screenshot (482).png)
+
 
 ---
 
 ## 🔗 Links
-- 📘 **Colab Notebook:** [View Here](UntitledO.ipynb)
-- 📊 **Looker Studio Dashboard:** [View Here](https://lookerstudio.google.com/reporting/c74a10d6-deb7-43b4-84ed-86cde9920a93)
+- 📘 **Colab Notebook:** [View Here](https://github.com/mana7111/E-Commerce-Sales-Dashboard-2019-/blob/main/UntitledO.ipynb)
 - 📁 **Dataset:** 2019-Oct.csv, 2019-Nov.csv, 2019-Dec.csv (E-commerce dataset)
 
 ---
